@@ -1,0 +1,14 @@
+{
+    "name": "hello-world-global-command",
+    "description": "nondescript",
+    "version": "0.0.1",
+    "bin": {
+        "hello-world-global-command": "main.js"
+    },
+    "dependencies": {
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/dglittle/hello-world-global-command.git"
+    }
+}
